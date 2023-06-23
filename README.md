@@ -1,6 +1,6 @@
-## Water-quality-analysis using- machine learning classification algorithms
+# Water-quality-analysis using- machine learning classification algorithms
 
-#Introduction:
+# Introduction:
  The Water Quality Analysis System using Machine Learning is a computerbased program that utilizes machine learning algorithms to predict and monitor the quality of water in each area. The system takes in data from various sources such as water samples, weather conditions, and land-use patterns, and applies statistical and machine learning models to identify patterns and predict potential contaminants. This system provides a comprehensive and efficient approach to water quality monitoring that can significantly improve water management and public health. This paper discusses the development, implementation, and validation of this system and highlights its potential benefits in ensuring safe and sustainable water resources. The aim is to investigate machine learning-based techniques for water quality forecasting by predicting results with the best accuracy machine learning algorithms. During the last few decades, the quality of water has deteriorated significantly due to pollution and many other issues. As a consequence of this, there is a need for a model that can make accurateprojections about water quality. The comparative analysis of different machine learning approaches like Logistic regression, Knearest neighbor, Decision Tree (DT), Random Forest used for the water quality classification with hidhest accuracy of 65.32%. Our model was able to detect changes in the water quality over 
 time, and even estimate the overall health of the water quality in different areas.
           
