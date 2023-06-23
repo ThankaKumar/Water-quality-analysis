@@ -17,6 +17,7 @@ the classification process (x).
 
 ## Result Analysis:
  ![image](https://github.com/ThankaKumar/Water-quality-analysis/assets/114381635/88f23b71-9723-4969-9259-0b6b5981090c)
+  
    This shows the accuracy obtained by each models. To get maximum analysis we used four machine learning algorithms like Logistic Regression,Random Forest, Decision Tree and K-Nearest Neighbor. The accuracy obtained by each model are Logistic Regression as 62.846%, Random Forest as 62.846%, K-Nearest Neighbor as 65.342% and Decision Tree as 64.510%
 
 ## Conclusion:
